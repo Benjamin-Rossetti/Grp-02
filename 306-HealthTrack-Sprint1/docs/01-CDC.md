@@ -10,12 +10,12 @@ application en utilisant la méthodologie Scrum et l’outil AppSheet.
 ⚠️ Cette application n’est pas une application médicale.
 Elle sert uniquement à enregistrer et consulter des habitudes, sans diagnostic
 ni conseils de santé.
-2. Objectif du Sprint 1
+3. Objectif du Sprint 1
 À la fin du Sprint 1, votre équipe doit livrer une application fonctionnelle (MVP)
 permettant :
 de saisir des informations liées au sport, à l’alimentation et au bien-être
 de consulter les données saisies.
-3. Qu’est-ce qu’AppSheet ?
+4. Qu’est-ce qu’AppSheet ?
 AppSheet est une plateforme no-code qui permet de créer des applications
 mobiles sans écrire de code.
 Avec AppSheet :
@@ -32,7 +32,7 @@ Nom de l’application: HealthTrack – Bien-être étudiant
 Fonction principale
 Permettre à un étudiant de suivre ses habitudes quotidiennes de manière
 simple et claire.
-4. Fonctionnalités attendues – Sprint 1
+5. Fonctionnalités attendues – Sprint 1
 4.1 Journal Sport
 L’utilisateur peut ajouter une séance de sport avec :
 Date
